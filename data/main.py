@@ -14,7 +14,7 @@ class Deck():
 
 
 
-def run_function():
+def run_function():  # TEMP FUNCTION TO RUN THE GAME
     while 1:
         for event in pg.event.get():
             if event.type == pg.QUIT: sys.exit()
