@@ -1,5 +1,6 @@
 class Main():
-    pass
+    def draw_backgrond(self):
+        pass
 
 class Deck():
     pass
